@@ -2,3 +2,4 @@
 2. git commit -m ------ commit with massage
 3. git log -----------  history
 4. git log --author="Name" ---- commit made by this author
+5.git diff -------- see difference between working copy and repo copy
