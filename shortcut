@@ -1,2 +1,4 @@
 1. ls -la ----- show hidden files folder
-2.
+2. git commit -m ------ commit with massage
+3. git log -----------  history
+4. git log --author="Name" ---- commit made by this author
