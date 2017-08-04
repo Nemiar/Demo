@@ -4,3 +4,4 @@
 4. git log --author="Name" ---- commit made by this author
 5.git diff -------- see difference between working copy and repo copy
 6.git diff --staged ------- see differnce between staged and repo copy
+4.git commit -am "cleaned up the comment" ----- commit without staging
