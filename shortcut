@@ -5,3 +5,10 @@
 5.git diff -------- see difference between working copy and repo copy
 6.git diff --staged ------- see differnce between staged and repo copy
 4.git commit -am "cleaned up the comment" ----- commit without staging
+4.git mv fileName newFileName -------renaming file
+5.git mv fileName DirectoryPath/NewFileName ---- moving file to directory
+6.git checkout -- fileName --- replace the file with the repositry file in working copy(back to previous version)
+7.git reset HEAD fileName  ------ unstage the file form the which is not ready to commit
+8.git checkout commitId -- fileName    --- go to specific commit stage of all stages
+9.git remote add remoteName [link of repo](ex-https://github.com/Nemiar/TutorialsDemo.git) ----- add remote repo
+10.git push -u remoteName master   ---------   upload to the git repo
